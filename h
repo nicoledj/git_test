@@ -1,4 +1,10 @@
-[33mcommit d8bb6b83ce83a023b4e41e7c4922acaf00ac4a3f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+[33mcommit a4f409a7f6e79e59572224c5fb110e2b6f42edaf[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Nicole deJong <nicole.f.dejong@gmail.com>
+Date:   Sat Dec 23 20:50:56 2023 -0500
+
+    Edit README.md and hello_world.txt
+
+[33mcommit d8bb6b83ce83a023b4e41e7c4922acaf00ac4a3f[m
 Author: Nicole deJong <nicole.f.dejong@gmail.com>
 Date:   Sat Dec 23 20:37:09 2023 -0500
 
